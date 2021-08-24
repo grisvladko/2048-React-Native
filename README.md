@@ -2,4 +2,6 @@
 
 React native project, clone of the 2048 famous game.
 
-![Alt text](https://ibb.co/prP2P0Y)
+![Alt text](https://ibb.co/prP2P0Y?raw=true "Title")
+
+
